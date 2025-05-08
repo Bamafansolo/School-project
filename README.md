@@ -59,3 +59,10 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a pull request.
 
 License
+This project is licensed under the Boost Software License 1.0.
+
+Contact
+
+For any questions or support, please contact the repository owner:
+
+GitHub Profile: Bamafansolo
